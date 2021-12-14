@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: 229158149@qq.com
   - icon: github
     icon_pack: fab
     link: https://github.com/cyZhu98
@@ -28,7 +28,5 @@ superuser: true
 highlight_name: true
 ---
 
-Welcome to my blog website. 
-
-demo blow:
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Welcome to my blog website. I will show some information there.
+I'm a master student in HFUT, Hefei, China. My major is Multimodal Depression Detectiom. My interest is computer vision, including Image Recognition, Object Detection.
