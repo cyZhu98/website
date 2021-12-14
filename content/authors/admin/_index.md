@@ -4,9 +4,8 @@ role: ""
 bio: My major is multimodal depression detection. My research interests is
   computer vision.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Multimodality
+  - Computational Vision
 social:
   - icon: envelope
     icon_pack: fas
